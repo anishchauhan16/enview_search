@@ -10,9 +10,14 @@ Steps to be followed for running the app:
 
 4. Open the folder on VS Code
 
-5. Open the terminal in VS code and run the command: npm start
+5. Open the terminal in VS code and run the cd command : cd ./enview_search-main 
 
-6. The app will open in the available localhost
+6. Once you reach the "enview_search-main" directory, try runnung the "npm start" command. 
+   (a) If there is an error, first run the follwoing command :
+       npm install react-scripts --save
+   (b) Now run the command: npm start (this starts the development server on the localhost).
+
+7. The app will open in the available localhost
 
 ## Note: The video for the application is attached in the main branch of the repo, and is named as "Enview_video.mkv"
 
