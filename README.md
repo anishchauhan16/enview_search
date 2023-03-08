@@ -1,4 +1,4 @@
-# Hi, I am Anish Chauhan, and here are the few steps which demonstrate on how to get started with the App.
+## Hi, I am Anish Chauhan, and here are the few steps which demonstrate on how to get started with the App.
 
 Steps to be followed for running the app:
 
@@ -15,5 +15,16 @@ Steps to be followed for running the app:
 6. The app will open in the available localhost
 
 ## Note: The video for the application is attached in the main branch of the repo, and is named as "Enview_video.mkv"
+
+## Functions performed by the app are:
+
+1. The Search Bar: It is a general search bar and you can find any Alert based on any of its properties, namely, its "id", "alert_type", "vehicle_id", "driver_friendly_name", "vehicle_friendly_name", or "timestamp".
+
+2. The Vehicle # Search bar : It allows you to search all the alerts which have only a specific "vehicle_friendly_name".
+
+3. The Date Range based search: Here, you can put the start and end dates, and it will display all alerts falling between these two given dates. 
+*Note : In the video attached, I have changed the dates on one of the pre-defined cases, just to demonstrate the Date Range based Search.
+
+4. The False Alarm button : This button gives an alert to the user on clicking that the given alert is a false alarm.
 
 ### Thank you so much for giving me this opportunity.
